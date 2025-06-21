@@ -90,7 +90,7 @@ Yes Bank's stock has experienced major fluctuations, especially post-2018 due to
 ## 🤝 Contribution
 
 👤 **Author:** Sagar Zujam  
-🎓 B.Tech CSE | Nutan College of Engineering & Research | LabMentix 
+🎓 B.Tech CSE | Nutan College of Engineering & Research | LabMentix
 📫 Feel free to connect for collaboration or feedback!
 
 ---
